@@ -1,0 +1,10 @@
+Nettverk
+Internet Protocol
+Dynamic Host Configuration Protocol
+Domain Name System
+Transmission Control Protocol
+Python
+Subnet mask
+Pygame
+gateway 
+Internet Protocol version 4 (IPv4)
